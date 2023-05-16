@@ -5,6 +5,7 @@ botocore
 setuptools==39.1.0
 numpy
 Keras
+keras_preprocessing
 scikit_learn
 pathlib
 ################################################################
