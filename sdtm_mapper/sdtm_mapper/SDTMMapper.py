@@ -16,7 +16,7 @@ import keras.layers as layers
 from keras.layers import Input, Dense, Dropout, Embedding,  Flatten
 from keras.models import Model, load_model, Sequential
 from keras.callbacks import ModelCheckpoint
-from keras.preprocessing.sequence import pad_sequences
+from keras_preprocessing.sequence import pad_sequences
 from keras.utils import to_categorical
 from keras.engine import Layer
 from keras.utils import to_categorical, np_utils
